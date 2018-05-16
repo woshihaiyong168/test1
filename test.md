@@ -1,5 +1,5 @@
-Name | Academy | score 
-- | :-: | -: 
-Harry Potter | Gryffindor| 90 
-Hermione Granger | Gryffindor | 100 
-Draco Malfoy | Slytherin | 90
+|id|name|
+|:-|:-|
+|1|A1|
+|2|A2|
+|3|A3|
