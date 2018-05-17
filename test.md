@@ -9,7 +9,7 @@
 |3|A3|
 
 
-|id|平台|官网|api地址|账号|密码|
+|id|ff|ff|ff|ff|ff|
 
 |id|name|
 |:-|:-|
